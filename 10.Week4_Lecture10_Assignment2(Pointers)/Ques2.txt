@@ -1,0 +1,3 @@
+Ques2. int *p,q;
+
+Ans. Here, p is a pointer which store address of integer and q is int-variable.

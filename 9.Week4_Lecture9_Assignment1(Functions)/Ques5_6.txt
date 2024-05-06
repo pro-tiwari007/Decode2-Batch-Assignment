@@ -1,0 +1,13 @@
+Q5: The minimum number of functions present in any C++ program is:
+(a)0   (b)1    (c)2    (d)Infinite
+Ans.  1 i.e Main function
+
+
+
+Q6: State True and False:
+a. function may be called more than once from any other function
+b. It is necessary for a function to return some value.
+
+Ans. a.True
+     b. False
+
